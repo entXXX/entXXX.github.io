@@ -1,0 +1,71 @@
+
+.section-box .fw-col-xs-12{
+  width: 100%;
+  padding-right: inherit;
+  padding-left: inherit;
+  /*max-width: 100%;*/
+  height: auto;
+}
+
+.bar{
+  height: 56px;
+  text-decoration: none;
+  z-index: 99;
+  position: absolute;
+  /*width: 100%;
+  min-width: 400px;
+  max-width: 1920px;*/
+}
+
+.icon-left0{
+  position: absolute;
+  top: 10px;
+  left: 5%;
+}
+
+.icon-left1{
+  position: absolute;
+  top: 14px;
+  left: 7%;
+}
+
+.icon-left2{
+  position: absolute;
+  top: 10px;
+  left: 10%;
+}
+
+.icon-left3{
+  position: absolute;
+  top: 14px;
+  left: 12%;
+}
+
+.icon-center{
+  position: absolute;
+  top:10px;
+  left:43%;
+}
+
+.icon-right0{
+  position: absolute;
+  top: 10px;
+  left: 80%;
+}
+
+.icon-right1{
+  position: absolute;
+  top: 10px;
+  left: 87%;
+}
+
+.icon-right2{
+  position: absolute;
+  top: 10px;
+  left: 90%;
+}
+
+.bar-line{
+  position: relative;;
+  top: 30px;
+}

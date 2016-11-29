@@ -1,0 +1,7 @@
+Name: WooCommerce to WP-Recall;
+Version: 1.0.1;
+Support Core: 14.0.0;
+Description: Дополнение обеспечивает взаимодействие плагина WooCommerce и WP-Recall. Выводит в личном кабинете от WP-Recall вкладку с заказами и данными аккаунта покупателя от WooCommerce;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
+Add-on URI: http://codeseller.ru/products/woocommerce-to-wp-recall/;
